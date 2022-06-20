@@ -37,8 +37,4 @@ public class ContaTest {
         assertEquals(esperado, instance.getSaldoTotal());
     }
 
-    private void assertEquals(double esperado, double saldoTotal) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-
-}
